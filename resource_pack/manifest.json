@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Blockscape",
+    "description": "A visual upgrade for Minecraft Bedrock.",
+    "uuid": "b72e8a91-4c36-4f15-9d27-6a8c1e5b2034",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 60]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c83f9b02-5d47-4a26-8e31-7b9d2f6c1045",
+      "version": [1, 0, 0]
+    }
+  ]
+}
