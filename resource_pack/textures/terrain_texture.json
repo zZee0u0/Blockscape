@@ -1,0 +1,78 @@
+{
+  "resource_pack_name": "Blockscape",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "nature:grass_top": {
+      "textures": "textures/blocks/nature/grass/grass_top"
+    },
+    "nature:grass_side": {
+      "textures": "textures/blocks/nature/grass/grass_side"
+    },
+    "nature:dirt": {
+      "textures": "textures/blocks/nature/dirt/dirt"
+    },
+    "nature:coarse_dirt": {
+      "textures": "textures/blocks/nature/dirt/coarse_dirt"
+    },
+    "nature:rooted_dirt": {
+      "textures": "textures/blocks/nature/dirt/rooted_dirt"
+    },
+    "nature:podzol_top": {
+      "textures": "textures/blocks/nature/ground/podzol_top"
+    },
+    "nature:podzol_side": {
+      "textures": "textures/blocks/nature/ground/podzol_side"
+    },
+    "nature:mycelium_top": {
+      "textures": "textures/blocks/nature/ground/mycelium_top"
+    },
+    "nature:mycelium_side": {
+      "textures": "textures/blocks/nature/ground/mycelium_side"
+    },
+    "nature:moss_block": {
+      "textures": "textures/blocks/nature/ground/moss_block"
+    },
+    "nature:sand": {
+      "textures": "textures/blocks/nature/ground/sand"
+    },
+    "nature:red_sand": {
+      "textures": "textures/blocks/nature/ground/red_sand"
+    },
+    "nature:gravel": {
+      "textures": "textures/blocks/nature/ground/gravel"
+    },
+    "nature:clay": {
+      "textures": "textures/blocks/nature/ground/clay"
+    },
+    "nature:mud": {
+      "textures": "textures/blocks/nature/ground/mud"
+    },
+    "nature:snow": {
+      "textures": "textures/blocks/nature/ground/snow"
+    },
+    "nature:oak_leaves": {
+      "textures": "textures/blocks/nature/leaves/oak_leaves"
+    },
+    "nature:spruce_leaves": {
+      "textures": "textures/blocks/nature/leaves/spruce_leaves"
+    },
+    "nature:birch_leaves": {
+      "textures": "textures/blocks/nature/leaves/birch_leaves"
+    },
+    "nature:jungle_leaves": {
+      "textures": "textures/blocks/nature/leaves/jungle_leaves"
+    },
+    "nature:acacia_leaves": {
+      "textures": "textures/blocks/nature/leaves/acacia_leaves"
+    },
+    "nature:dark_oak_leaves": {
+      "textures": "textures/blocks/nature/leaves/dark_oak_leaves"
+    },
+    "nature:mangrove_leaves": {
+      "textures": "textures/blocks/nature/leaves/mangrove_leaves"
+    },
+    "nature:cherry_leaves": {
+      "textures": "textures/blocks/nature/leaves/cherry_leaves"
+    }
+  }
+}
